@@ -1,6 +1,6 @@
 # Another CustoMIUIzer fork for MIUI13 based on A12
 
-since the original customiuizer has so many features, I don't have enoghou time and power to make them all works
+since the original customiuizer (thanks to `Mikanoshi`) has so many features, I don't have enough time and power to make them all works
 
 ## Here are the main working features:
 * keep phone unlocked in trusted env (bt and wifi)
