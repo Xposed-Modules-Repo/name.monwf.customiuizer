@@ -1,4 +1,4 @@
-# Another CustoMIUIzer fork for MIUI13 based on A12
+# Another CustoMIUIzer for MIUI13
 
 since the original customiuizer (thanks to `Mikanoshi`) has so many features, I don't have enough time and power to make them all works
 
