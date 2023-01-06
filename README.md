@@ -1,8 +1,12 @@
-# Another CustoMIUIzer fork for MIUI13 & MIUI14 based on android 12 above
-Since the original customiuizer (thanks to `Mikanoshi`) has so many features, I could make most of them work only.
+## CustoMIUIzer for MIUI13 & MIUI14 based on android 12 above
+Since the original customiuizer (thanks to `Mikanoshi`) has so many features, I could make most of them work only
 
-##
-[Github Source](https://github.com/monwf/customiuizer)
+> [Github](https://github.com/monwf/customiuizer)
+
+## [米客](https://github.com/MonwF/customiuizer/blob/main/README_zh.md)
+客制化你的MIUI
+
+支持基于`android 12`以上的 MIUI 13和14
 
 ## Here are the main working features:
 * keep phone unlocked in trusted env (both bluetooth and wifi)
