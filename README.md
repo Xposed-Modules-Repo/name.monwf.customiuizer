@@ -1,5 +1,5 @@
-# Another CustoMIUIzer fork for MIUI13 based on A12
-Since the original customiuizer (thanks to `Mikanoshi`) has so many features, I don't have enough time and power to make all of them working.
+# Another CustoMIUIzer fork for MIUI13 & MIUI14 based on android 12 above
+Since the original customiuizer (thanks to `Mikanoshi`) has so many features, I could make most of them work only.
 
 ##
 [Github Source](https://github.com/monwf/customiuizer)
