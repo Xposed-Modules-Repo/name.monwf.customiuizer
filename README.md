@@ -1,16 +1,25 @@
 > [Github](https://github.com/monwf/customiuizer)
 
-## CustoMIUIzer for MIUI14 based on android 13 above
-Since the original customiuizer (thanks to `Mikanoshi`) has so many features, I could make most of them work only
+## Pengeek
+Customize your HyperOS to your liking
 
-[MIUI13 release](https://github.com/MonwF/customiuizer/releases/tag/v23.08.26)
+For HyperOS based on android 14
+
+Legacy releases:
+
+* [MIUI14 release](https://github.com/MonwF/customiuizer/releases/tag/v23.11.26)
+
+* [MIUI13 release](https://github.com/MonwF/customiuizer/releases/tag/v23.08.26)
 
 ## [米客](https://github.com/MonwF/customiuizer/blob/main/README_zh.md)
-客制化你的MIUI
+客制化你的HyperOS
 
-支持基于`android 13`以上的 MIUI14. 
+支持基于`android 14`以上的`HyperOS`.
 
-[MIUI13 下载](https://github.com/MonwF/customiuizer/releases/tag/v23.08.26)
+过时版本
+
+* [MIUI14 下载](https://github.com/MonwF/customiuizer/releases/tag/v23.11.26)
+* [MIUI13 下载](https://github.com/MonwF/customiuizer/releases/tag/v23.08.26)
 
 ## Here are the main working features:
 * keep phone unlocked in trusted env (both bluetooth and wifi)
@@ -18,7 +27,7 @@ Since the original customiuizer (thanks to `Mikanoshi`) has so many features, I 
 * adjust notification volume seperately
 * extended timers for silent and dnd mode
 * music visualizer
-* statusbar 
+* statusbar
   * hide icons
   * show seconds
   * gesture (double tap to sleep、slice to adjust volume or brightness)
@@ -32,7 +41,6 @@ Since the original customiuizer (thanks to `Mikanoshi`) has so many features, I 
 * extended power menu
 * allow downgrade
 * disable app signature verification
-* allow upgrade system app with miui package installer
 * use back gesture with navbar mode
 * custom left/right buttons on the navbar
 * skip permission intercept warning countdown
