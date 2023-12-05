@@ -3,7 +3,7 @@
 ## Pengeek
 Customize your HyperOS to your liking
 
-For HyperOS based on android 14
+For HyperOS based on android 14. 
 
 Legacy releases:
 
@@ -11,10 +11,17 @@ Legacy releases:
 
 * [MIUI13 release](https://github.com/MonwF/customiuizer/releases/tag/v23.08.26)
 
+## Translations
+[![Crowdin](https://badges.crowdin.net/customiuizer14/localized.svg)](https://crowdin.com/project/customiuizer14)
+
+## Test builds
+* [Telegram channel](https://t.me/pengeek)
+* [jiandaoyun](https://rz3kv5wa4g.jiandaoyun.com/dash/650e43a383027ec3225083e9)
+
 ## [米客](https://github.com/MonwF/customiuizer/blob/main/README_zh.md)
 客制化你的HyperOS
 
-支持基于`android 14`以上的`HyperOS`.
+支持基于`android 14`以上的`HyperOS`
 
 过时版本
 
@@ -24,18 +31,20 @@ Legacy releases:
 ## Here are the main working features:
 * keep phone unlocked in trusted env (both bluetooth and wifi)
 * autobrightness range limit
-* adjust notification volume seperately
 * extended timers for silent and dnd mode
 * music visualizer
+* set album art as wallpaper
 * statusbar
   * hide icons
-  * show seconds
+  * clock tweak
   * gesture (double tap to sleep、slice to adjust volume or brightness)
   * battery bar indicator
 * notifications
   * notification importance
   * auto expand
   * extended menu
+  * remove limit per package
+  * open in floating window
   * open channel settings
 * disable blacklist for floating windows
 * extended power menu
@@ -46,4 +55,5 @@ Legacy releases:
 * skip permission intercept warning countdown
 * control system apps to connect with wifi and battery saver
 * show more detail on app installer or info activity
+* powerful gesture with multi actions
 
